@@ -1,0 +1,7 @@
+1. incompatible types
+2. 5.00
+3. incompatible types
+4. b operator and keyword
+5. false (Seems to be trick question)
+6. yes. extend option
+7. File object would not create anything, one should invoke .mkdir
